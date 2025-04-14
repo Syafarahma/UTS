@@ -1,0 +1,566 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "My Bestie",
+        "waktu": "21 Januari 2024",
+        "alamat": "Jl. Parang Ukel No.17, Tengah, Kadipaten, Kec. Babadan, Kabupaten Ponorogo, Jawa Timur 63491",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/DSC01573.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.49228697432619,
+          -7.849815137762974
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Siang hari di samping rumah",
+        "waktu": "28 November 2020",
+        "alamat": "Jl. Kapuas No.17, Plampitan, Setono, Kec. Jenangan, Kabupaten Ponorogo, Jawa Timur 63491",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20201128_110353.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.49642124171055,
+          -7.849169122543046
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Di pinggir telaga ngebel",
+        "waktu": "10 Januari 2021",
+        "alamat": "Jl. Telaga, Telaga Ngebel, Ngebel, Kec. Ngebel, Kabupaten Ponorogo, Jawa Timur 63493",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20210110_122406.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.63785164143178,
+          -7.794690237168709
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Jogging bersama bapak",
+        "waktu": "19 Desember 2020",
+        "alamat": "Jl. Jl. Arif Rahman Hakim, Kertosari, Kec. Babadan, Kabupaten Ponorogo, Jawa Timur 63412",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20201219_051142.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.47480430794712,
+          -7.848039821599656
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Senja di ujung jalan Batoro Katong",
+        "waktu": "15 Desember 2020",
+        "alamat": "Jl. Batoro Katong No.1, Sultanagung, Nologaten, Kec. Ponorogo, Kabupaten Ponorogo, Jawa Timur 63411",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20201215_174445.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.47548728187479,
+          -7.861617844464064
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Alifia waktu bocil",
+        "waktu": "15 Desember 2020",
+        "alamat": "Jl. Kapuas No.17, Plampitan, Setono, Kec. Jenangan, Kabupaten Ponorogo, Jawa Timur 63491",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20201215_141905.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.49643931216656,
+          -7.849116818256732
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Senja di balkon rumah nina",
+        "waktu": "6 Januari 2022",
+        "alamat": "Jl. Parang Tritis 24, Ronowijayan, Kertosari, Kec. Babadan, Kabupaten Ponorogo, Jawa Timur 63491",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20220106_172948.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.48693234602888,
+          -7.8572057422107235
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Bicycle on sunday morning ",
+        "waktu": "26 Desember 2021",
+        "alamat": "Jl. Selo Aji No.5, Jambean, Cekok, Kec. Babadan, Kabupaten Ponorogo, Jawa Timur 63491",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20211226_061912.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.48768481425873,
+          -7.836269983733629
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Makan soto borang",
+        "waktu": "13 November 2021",
+        "alamat": "Jl. Niken Gandini, RT.02/RW.04, Singosaren, Kec. Jenangan, Kabupaten Ponorogo, Jawa Timur 63492",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20211113_103342.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.50084424363598,
+          -7.853532138396005
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Heroes day smaza 2021",
+        "waktu": "10 November 1021",
+        "alamat": "Jl. Parang Ukel No.17, Tengah, Kadipaten, Kec. Babadan, Kabupaten Ponorogo, Jawa Timur 63491",
+        "jejak saya": "Jl. Budi Utomo No.1, Ronowijayan, Kec. Siman, Kabupaten Ponorogo, Jawa Timur 63471"
+      },
+      "geometry": {
+        "coordinates": [
+          111.49481177390396,
+          -7.8636824490629635
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "With aqsa domblong",
+        "waktu": "24 Desember 2021",
+        "alamat": "Jl. Kapuas No.17, Plampitan, Setono, Kec. Jenangan, Kabupaten Ponorogo, Jawa Timur 63491",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20210924_170927.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.49638617117944,
+          -7.849122171793454
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Flowers from my sweetheart",
+        "waktu": "9 Oktober 2024",
+        "alamat": "Jl. Komojoyo No.19, Karang Gayam, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/IMG-20241012-WA0031.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.49228697432619,
+          -7.849815137762974
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Rain at Hospital Muhammadiyah ponorogo",
+        "waktu": "4 mei 2022",
+        "alamat": "Jl. Diponegoro No.50, Temengungan, Temenggungan, Kec. Ponorogo, Kabupaten Ponorogo, Jawa Timur 63413",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20220504_204837.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.14046250290096,
+          -7.663435752911695
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "My baby dino lagi bobo",
+        "waktu": "12 Juni 2022",
+        "alamat": "Jl. Kapuas No.17, Plampitan, Setono, Kec. Jenangan, Kabupaten Ponorogo, Jawa Timur 63491",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/DSC01573.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.49639163772474,
+          -7.849120702681915
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "FN The overtunes",
+        "waktu": "17 Juni 2022",
+        "alamat": "Jl. Budi Utomo No.10, Ronowijayan, Kec. Siman, Kabupaten Ponorogo, Jawa Timur 63471",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20220617_224131.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.49591486584524,
+          -7.865752891592479
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "kakak gendong baby dino",
+        "waktu": "22 Juni 2022",
+        "alamat": "Jl. Kapuas No.17, Plampitan, Setono, Kec. Jenangan, Kabupaten Ponorogo, Jawa Timur 63491",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20220622_084339.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.49636349298538,
+          -7.849182882877102
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Trip po-ta with damri",
+        "waktu": "2 Juli 2022",
+        "alamat": "Area Hutan, Jurug, Kec. Sooko, Kabupaten Ponorogo, Jawa Timur 63482",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20220702_135634.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.68849485761677,
+          -7.918473162067585
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Aku saat Choir di GBC",
+        "waktu": "13 Maret 2022",
+        "alamat": "-7.918473162067585",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/IMG-20220313-WA0083.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.4793316795488,
+          -7.86401662657228
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Melihat tari barong di GWK Bali",
+        "waktu": "19 Juli 2022",
+        "alamat": "Jl. Raya Uluwatu, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80364",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20220719_174932.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          115.16766338398287,
+          -8.810074106306487
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Morning selfie di kurnia seafood tanah lot",
+        "waktu": "19 Juli 2022",
+        "alamat": "94V5+9G8, Jl. By Pass Tanah Lot No.Ds, Beraban, Kec. Kediri, Kabupaten Tabanan, Bali 82121",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/IMG_2579.JPG"
+      },
+      "geometry": {
+        "coordinates": [
+          115.10845586039625,
+          -8.606263209546341
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Me at tanah lot bali",
+        "waktu": "19 Juli 2022",
+        "alamat": "93HP+HXW, Beraban, Kec. Kediri, Kabupaten Tabanan, Bali 82121",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/IMG_2769.JPG"
+      },
+      "geometry": {
+        "coordinates": [
+          115.08732096290248,
+          -8.620976367813299
+        ],
+        "type": "Point"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Me at Pandawa beach",
+        "waktu": "19 Juli 2022",
+        "alamat": "553P+R5G, Jl. Pantai Pandawa, Kutuh, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/IMG_2886.JPG"
+      },
+      "geometry": {
+        "coordinates": [
+          115.18387565088113,
+          -8.846099866474987
+        ],
+        "type": "Point"
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Me at Monumen Bajra Sandhi",
+        "waktu": "20 Juli 2022",
+        "alamat": "86HJ+9X5, Jl. Raya Puputan No.142, Panjer, Denpasar Selatan, Kota Denpasar, Bali 80234",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/IMG_3171.JPG"
+      },
+      "geometry": {
+        "coordinates": [
+          115.23391630220226,
+          -8.672405012834659
+        ],
+        "type": "Point"
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Me n ma friends at danau bedugul",
+        "waktu": "21 Juli 2022",
+        "alamat": "Danau Beratan, Candikuning, Baturiti, Tabanan Regency, Bali 82191",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/IMG_3466.JPG"
+      },
+      "geometry": {
+        "coordinates": [
+          115.16646419906954,
+          -8.275586391699306
+        ],
+        "type": "Point"
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Wisata kuliner Sop iga bu ugi tawangmangu",
+        "waktu": "5 februari 2025",
+        "alamat": "84PR+J45, Jl. Raya Tawangmangu, Kramat, Kalisoro, Kec. Tawangmangu, Kabupaten Karanganyar, Jawa Tengah 57792",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/IMG-20250205-WA0013.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.14046250290096,
+          -7.663435752911695
+        ],
+        "type": "Point"
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Cireng isi at GBK Ponorogo",
+        "waktu": "3 Februari 2025",
+        "alamat": "Jl. Pramuka No.6, Sultanagung, Nologaten, Kec. Ponorogo, Kabupaten Ponorogo, Jawa Timur 63411",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20250203_194326.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.47787911776828,
+          -7.864094410270113
+        ],
+        "type": "Point"
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Wisata kuliner Bebek genem patik",
+        "waktu": "29 Januari 2025",
+        "alamat": "Jl. Raya Pulung - Pudak, Tunjungan Wetan, Patik, Kec. Pulung, Kabupaten Ponorogo, Jawa Timur 63481",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20250129_123202.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.63592228687355,
+          -7.874942252096886
+        ],
+        "type": "Point"
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Belajar membatik di omah kecebong jogja",
+        "waktu": "22 Desember 2024",
+        "alamat": "Jl. Gombang - Cebongan, RT.02/RW.18, Sendon, Tirtoadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55287",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20241222_110824.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.32897008613332,
+          -7.738316506114387
+        ],
+        "type": "Point"
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "My fav ice cream with fav person",
+        "waktu": "4 Desember 2024",
+        "alamat": "Mrican, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20241204_181625.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.38872614136437,
+          -7.778377150669513
+        ],
+        "type": "Point"
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Marugame udon time",
+        "waktu": "18 Oktober 2024",
+        "alamat": "Pakuwon Mall Jogja, Jl. Ring Road Utara Sanggrahan Lt.LG, Kaliwaru, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20241018_185922.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3990655663817,
+          -7.76036971044762
+        ],
+        "type": "Point"
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Menunggu kereta jayakarta datang",
+        "waktu": "16 September 2024",
+        "alamat": "Jl. Kompol Sunaryo, Madiun Lor, Kec. Manguharjo, Kota Madiun, Jawa Timur 63122",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20240916_162757.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.52469378505788,
+          -7.61857669639916
+        ],
+        "type": "Point"
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Sore di telaga ngebel with baby dino",
+        "waktu": "1 September 2022",
+        "alamat": "Telaga Ngebel, Ngebel, Kec. Ngebel, Kabupaten Ponorogo, Jawa Timur",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20220901_164728.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.63653347494954,
+          -7.792343826729791
+        ],
+        "type": "Point"
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Upacara senin pagi di halaman smaza",
+        "waktu": "22 Agustus 2022",
+        "alamat": "Jl. Budi Utomo No.1, Ronowijayan, Kec. Siman, Kabupaten Ponorogo, Jawa Timur 63471",
+        "jejak saya": "https://github.com/Syafarahma/UTS/blob/main/20220822_072701.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          111.49453058366106,
+          -7.8637171941053765
+        ],
+        "type": "Point"
+      },
+      "id": 32
+    },
+  ]
+}
